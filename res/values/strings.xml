@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">IpActivity</string>
+    <string name="app_name" translatable="false">Teorie a praxe IP telefonie</string>
+    <string name="button">Open web</string>
 </resources>
