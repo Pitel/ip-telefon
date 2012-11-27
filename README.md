@@ -5,3 +5,5 @@ Ukázková aplikace pro přednášku *Vývoj SW pro mobilní zařízení s Andro
 Nezapomeňte vytvořit soubor `local.properties` a do něj napsat:
 
     sdk.dir=/uplna/cesta/k/SDK
+
+Heslo pro release klic je `ip-telefon`.
